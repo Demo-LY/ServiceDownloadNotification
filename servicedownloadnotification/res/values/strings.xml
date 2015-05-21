@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, TestVersionUpdateActivity!</string>
+    <string name="app_name">ServiceDownLoad</string>
+    <string name="name1">安卓智能管家</string>
+    <string name="download">开始下载</string>
+    <string name="name2">有你短信</string>
+    <string name="name3">pptv视频</string>
+    <string name="name4">随手优惠</string>
+
+</resources>
